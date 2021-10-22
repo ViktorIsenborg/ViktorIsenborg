@@ -1,8 +1,8 @@
 # Info
-##### Hello! 
-##### My name is Viktor Isenborg, also known as Vickepedian.
-##### I am a programmer aspiring to learn C++ for the sake of getting better at programming.
-##### Other than programming, I am also decently versed in copy editing and photo editing. 
+#### Hello! 
+#### My name is Viktor Isenborg, also known as Vickepedian.
+#### I am a programmer aspiring to learn C++ for the sake of getting better at programming.
+#### Other than programming, I am also decently versed in copy editing and photo editing. 
 
 ## Languages
 - Python
