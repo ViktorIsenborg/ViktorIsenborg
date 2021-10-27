@@ -7,8 +7,8 @@
 ## Languages
 - Python
 - C++ (Novice)
-- HTML (When neccessary)
-- CSS (Also when neccessary)
+- CSS (I politely refuse)
+- HTML (Absolutely not)
 - jQuery
 
 ## Software skills
