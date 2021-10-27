@@ -3,7 +3,7 @@
 #### My name is Viktor Isenborg.
 #### I am a programmer aspiring to learn C++ for the sake of getting better at programming.
 #### Other than programming, I am also decently versed in copy editing and photo editing. 
-#### Here's a fun fact that not everyone may know, HTML and CSS as well as JavaScript are terrible languages.
+#### Here's also a fun fact that not everyone may know, HTML and CSS as well as JavaScript are terrible languages.
 
 ## Languages
 - Python
