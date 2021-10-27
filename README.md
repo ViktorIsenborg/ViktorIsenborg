@@ -3,12 +3,11 @@
 #### My name is Viktor Isenborg.
 #### I am a programmer aspiring to learn C++ for the sake of getting better at programming.
 #### Other than programming, I am also decently versed in copy editing and photo editing. 
+#### If you are wondering where HTML and CSS went, they were simply cast aside.
 
 ## Languages
 - Python
 - C++ (Novice)
-- CSS (I politely refuse)
-- HTML (Absolutely not)
 - jQuery
 
 ## Software skills
