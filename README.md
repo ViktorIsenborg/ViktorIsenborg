@@ -13,7 +13,6 @@
 - Adobe- Illustrator & Photoshop 2021
 - VScode
 - Krita
-- Microsoft Word
 
 ## Projects
 - [Pizzeria Napoli](https://ntig-uppsala.github.io/pizzeria-website/)
