@@ -17,7 +17,7 @@
 
 ## Projects
 - [Pizzeria Napoli](https://ntig-uppsala.github.io/pizzeria-website/)
-- [Caféteria Skylt](https://github.com/NTIG-Uppsala/Cafeteria-skylt)
+- [Cafeteria Skylt](https://github.com/NTIG-Uppsala/Cafeteria-skylt)
 - [Trayls](https://github.com/NTIG-Uppsala/trayls)
 - [IMG Dump](https://github.com/NTIG-Uppsala/imgdump)
 
