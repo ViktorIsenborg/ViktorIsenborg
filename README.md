@@ -1,18 +1,20 @@
 # Info
 #### Hello! 
 #### My name is Viktor Isenborg.
-#### I am a programmer aspiring to learn C++ for the sake of getting better at programming.
-#### Other than programming, I am also decently versed in copy editing and photo editing. 
-#### Here's also a fun fact that not everyone may know, HTML and CSS as well as JavaScript are terrible languages.
+#### I aspire to draw and create art of different sorts.
+#### Other than this, I am also interested in learning more about programming. 
 
 ## Languages
+- C++
+- Java
 - Python
-- C++ (Novice)
+- JavaScript
 
 ## Software skills
-- Adobe- Illustrator & Photoshop 2021
+- Adobe- Illustrator & Photoshop
 - VScode
 - Krita
+- Blender
 
 ## Projects
 - [Pizzeria Napoli](https://ntig-uppsala.github.io/pizzeria-website/)
