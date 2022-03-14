@@ -1,8 +1,7 @@
 # Info
 #### Hello! 
 #### My name is Viktor Isenborg.
-#### I aspire to draw and create art of different sorts.
-#### Other than this, I am also interested in learning more about programming. 
+#### I aspire to draw and create art of different sorts. Other than this, I am also interested in learning more about programming. 
 
 ## Languages
 - C++
