@@ -1,8 +1,8 @@
 # Info
 #### Hello! 
 #### My name is Viktor Isenborg.
-#### I like to draw and create things within the realm of computing and what not. Other than this, I am also interested in learning more about programming. 
-
+#### I like to draw and create things within the realm of computing and what not. Other than that, I am also interested in learning more about programming. 
+#### You may find out more about me in this link here: [Portfolio](https://viktorisenborg.github.io/Portfolio/)
 ## Languages
 - C++
 - Java
@@ -20,9 +20,6 @@
 - [Caféteria Skylt](https://github.com/NTIG-Uppsala/Cafeteria-skylt)
 - [Trayls](https://github.com/NTIG-Uppsala/trayls)
 - [IMG Dump](https://github.com/NTIG-Uppsala/imgdump)
-
-## Portfolio
-- [Portfolio](https://viktorisenborg.github.io/Portfolio/)
 
 <!--
 **ViktorIsenborg/ViktorIsenborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
