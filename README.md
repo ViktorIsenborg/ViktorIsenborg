@@ -12,6 +12,7 @@
 ## Software skills
 - Adobe- Illustrator & Photoshop
 - VScode
+- Visual Studio 2022 (C++)
 - Krita
 - Blender
 
