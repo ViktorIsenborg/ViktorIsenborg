@@ -1,7 +1,7 @@
 # Info
 #### Hello! 
 #### My name is Viktor Isenborg.
-#### I like to draw and create things within the realm of computing and what not. Other than that, I am also interested in learning more about programming. 
+#### I play games and I take great interest in learning more about programming. 
 #### You may find out more about me in this link here: [Portfolio](https://viktorisenborg.github.io/Portfolio/)
 ## Languages
 - C++
