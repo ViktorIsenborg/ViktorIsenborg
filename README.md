@@ -5,7 +5,7 @@
 #### You may find out more about me in this link here: [Portfolio](https://viktorisenborg.github.io/Portfolio/)
 ## Languages
 - C++
-- Java
+- Java (not recommended)
 - Python
 - JavaScript
 
